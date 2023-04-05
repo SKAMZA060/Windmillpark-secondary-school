@@ -1,0 +1,132 @@
+body{
+	background-size: cover;
+}
+
+
+.main{
+margin: 10px;
+boarder-radius: 10px;
+padding: 20px;
+font-size: 110%
+
+}
+
+#footer  {
+
+ bottom: 0px;
+margin: 5px;
+height: 10px;
+boarder-radius: 10px;
+ bottom: 0px;
+margin: 5px;
+height: 10px;
+boarder-radius: 10px;
+ position: fixed;
+  bottom: 0;
+  center: 0;
+  width: 100%;
+  padding: 20px  10%;
+  background: transparent;
+  display: flex;
+  justify-content: space between;  
+    align-items: center;
+	z-index: 100;
+	color: #fff;
+		background:transparent;
+boarder: 2px solid;
+boarder-radius: 20px;
+backdrop-filter: blur(20px);
+box-shadow: 0 0 30px rgba(0,0,0,.5);
+}
+
+#footer  ul li {
+	display: inline;
+
+}
+
+#footer ul li a {
+	
+	text-decoration: none;
+	font-family: poppins;
+	font-size: 130%;
+	color: #fff   ;
+	background-color:  #;
+	padding:  .2em 1em;
+	
+}
+	
+#footer ul li a:hover {
+	color: #0ef;
+	background-color:  #;
+}
+
+
+
+#footer ul {
+
+background-color: #transparent;
+margin: 10px;
+height: 10px;
+text-align: center;
+boarder-radius: 5px;
+padding: 5px;
+list-style-type: none;
+position: flex;
+}
+
+
+
+.header{
+  position: flex;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px  10%;
+  background: transparent;
+  display: flex;
+  justify-content: space between;  
+    align-items: center;
+	z-index: 100;
+		background:transparent;
+boarder: 2px solid;
+boarder-radius: 20px;
+backdrop-filter: blur(20px);
+box-shadow: 0 0 30px rgba(0,0,0,.5);
+}
+.logo{
+	font-size: 25px;
+	color: #fff;
+	text-decoration: none;
+	font-weigth: 600;
+	cursor: defult; 
+}
+
+
+.navbar a{
+	font-size: 18px;
+	color: #fff;
+	text-decoration: none;
+	font weight: 500;
+    margin-left: 35px;
+	transmisson: .3s;
+     position: flex;
+	 
+	
+	 
+}
+
+
+
+
+
+
+
+
+
+
+	.navbar a:hover,
+	.navbar a:active{
+		color: #0ef;
+		
+
+  }
